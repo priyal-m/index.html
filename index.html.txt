@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My Personal Introduction</title>
+		<style>
+			body{
+				background-color:#E3F3F1
+			}
+			h1{
+				color:#518B89
+			}
+			p{
+				color:#81B7BF
+			}
+		</style>
+	</head>
+	<body>
+		<h1>My name is Priyal Mangla.</h1>
+		<p>I am a student at Enloe High School. I love coding and solving puzzles. In my free time, I like to play piano, watch kdramas, and listen to music.</p>
+	</body>
+</html>
